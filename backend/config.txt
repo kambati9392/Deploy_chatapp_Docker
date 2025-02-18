@@ -1,0 +1,5 @@
+DB_NAME=mydb
+DB_USER=user
+DB_PASSWORD=userpassword
+DB_HOST=mysql-container
+DB_PORT=3306
